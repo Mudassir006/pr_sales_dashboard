@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 {
-    "name": "Advanced Sales Dashboard.",
+    "name": "Advanced Sales Dashboard",
     "summary": "Executive sales dashboard with revenue, customers, products, geography, and team KPIs.",
-    "version": "17.0.1.0.0",
+    "version": "18.0.1.0.0",
     "category": "Sales",
     "author": "Mudassir Amin",
     "website": "https://www.mudassir.it.com",
