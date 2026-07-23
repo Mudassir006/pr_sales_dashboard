@@ -2,7 +2,7 @@
 {
     "name": "Advanced Sales Dashboard",
     "summary": "Executive sales dashboard with revenue, customers, products, geography, and team KPIs.",
-    "version": "18.0.1.0.0",
+    "version": "19.0.1.0.0",
     "category": "Sales",
     "author": "Mudassir Amin",
     "website": "https://www.mudassir.it.com",
