@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 {
-    "name": "Executive Sales Analytics Dashboard",
+    "name": "Advanced Sales Dashboard.",
     "summary": "Executive sales dashboard with revenue, customers, products, geography, and team KPIs.",
     "version": "17.0.1.0.0",
     "category": "Sales",
     "author": "Mudassir Amin",
     "website": "https://www.mudassir.it.com",
-    "license": "OPL-1",
+    "license": "LGPL-3",
     "depends": ["sale"],
     "data": [
         "views/sales_dashboard_views.xml",
