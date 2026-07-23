@@ -18,6 +18,9 @@
             "pr_sales_dashboard/static/src/css/sales_dashboard.css",
         ],
     },
+    "images": [
+        "static/description/banner.png",
+    ],
     "installable": True,
     "application": False,
     "auto_install": False,
